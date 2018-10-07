@@ -7,3 +7,4 @@ Created on 2018年10月6日
 '''
 
 print("hello world!")
+print("你好，世界！")
